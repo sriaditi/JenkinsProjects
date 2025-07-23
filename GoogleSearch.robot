@@ -13,11 +13,11 @@ This is the First Test Case
     Set Selenium Implicit Wait      5
     Press Keys       xpath://textarea[@id='APjFqb']            RETURN
 
-This is the Second Test Case to test amazon
-    [documentation]  Test Google Search
-    [tags]  Funtional
-
-    Open Browser    https://www.amazon.in/      headlesschrome
-    Maximize Browser Window
-    Click Element   xpath://a[contains(text(),"Books")]
-    Sleep   5
+#This is the Second Test Case to test amazon
+#    [documentation]  Test Google Search
+#    [tags]  Funtional
+#
+#    Open Browser    https://www.amazon.in/      headlesschrome
+#    Maximize Browser Window
+#    Click Element   xpath://a[contains(text(),"Books")]
+#    Sleep   5
